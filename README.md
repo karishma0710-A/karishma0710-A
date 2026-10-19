@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech Information Technology Student
+- 🎓 B.Tech Information Technology graduate
 - 🌱 Currently learning Java, Spring Boot, React & DSA
 - 💡 Passionate about Backend Development
 - 🎯 Goal: Software Engineer
