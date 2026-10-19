@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karishma A</h1>
-<h3 align="center">Java Full Stack Developer | B.Tech IT Student (2026)</h3>
+<h3 align="center">Java Full Stack Developer | B.Tech IT Graduate (2026)</h3>
 
 ---
 
